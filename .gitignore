@@ -1,0 +1,28 @@
+# ============================================================
+# .gitignore
+# ============================================================
+# Files listed here are IGNORED by Git.
+# They will NOT be pushed to GitHub.
+#
+# CRITICAL: Your .env file contains your API key.
+# Never push it to GitHub - anyone could use your key!
+# ============================================================
+
+# Environment file with API keys - NEVER push this
+.env
+
+# Python cache files - auto-generated, not needed on GitHub
+__pycache__/
+*.pyc
+*.pyo
+
+# Test reports - these are generated locally, not needed on GitHub
+reports/
+
+# Virtual environment folder
+venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/

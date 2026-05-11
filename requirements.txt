@@ -1,0 +1,11 @@
+# ============================================================
+# REQUIREMENTS.TXT - Python libraries this project needs
+# ============================================================
+# HOW TO INSTALL:
+#   Run this command in your terminal:
+#   pip install -r requirements.txt
+# ============================================================
+
+anthropic          # The official Anthropic library to call Claude AI
+python-dotenv      # Lets us load our API key from the .env file
+colorama           # Makes terminal output colorful (pass=green, fail=red)
