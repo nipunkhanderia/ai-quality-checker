@@ -125,5 +125,5 @@ pytest tests/ -v
 
 ## Author
 
-Built by [Your Name] as part of an AI Quality Engineering portfolio.
+Built by Nipun Khanderia as part of an AI Quality Engineering portfolio.
 Certifications: AWS ML Specialty | Azure AI Engineer | Google Cloud Generative AI Leader
